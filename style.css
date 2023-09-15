@@ -1,0 +1,99 @@
+
+.hero-bg{
+  text-align: center;
+  background-color: antiquewhite;
+  font-family: 'Raleway', sans-serif;
+  padding-top: 90px;
+  height: 700px;
+}
+
+.intro{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.img-i{
+  height: 200px;
+  border-radius: 50%;
+}
+
+h1{
+  font-size: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+h2{
+  font-size: 40px;
+}
+
+.skill{
+  display: grid;
+  grid-template-columns: 2fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 10px; 
+}
+.item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.red{
+  color: rgb(134, 11, 11);
+}
+div {
+  display: block;
+}
+.pilly{
+  width: 150px;
+}
+
+h3{
+  font-size: 40px;
+}
+
+.bt{
+  font-size: 20px;
+  padding: 16px 50px;
+}
+
+.cont{
+  margin: 40px auto 60px;
+}
+
+.rem{
+  background-color: rgb(255, 229, 195);
+}
+
+.bottom-container {
+  background-color: #e9d7a5cb;
+  padding: 50px 0 20px;
+}
+
+.footer-link{
+  font-size: 20px;
+  color: rgb(177, 62, 62);
+}
+.copyright {
+  color: #ec3700;
+  font-size: 1rem;
+  padding: 20px 0;
+  font-weight: 500;
+}
+
+a {
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
